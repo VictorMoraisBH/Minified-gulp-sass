@@ -10,7 +10,7 @@ const paths = {
         dest: 'dist/css'
     },
     images: {
-        src: 'src/images/**/*',
+        src: 'images/**/*',
         dest: 'dist/images'
     },
     scripts: {
